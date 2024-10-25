@@ -1,0 +1,25 @@
+credentials:
+  usernames:
+    quachhuy:
+      email: quachhuy@gmail.com
+      name: Quach Duc Huy
+      password: '$2b$12$jK5bqotmohLUKTW7lft0W.6R18VvGZT08nEfeyeHtR3QdeHB5jkdC' # huy24685367
+    lucquynh:
+      email: lucquynh@gmail.com
+      name: Luc Nhu Quynh
+      password: "$2b$12$zC3GPddszaIfgHA/j4mMW.npxR8ar6cdDvIIyGfqbQ1aMUZaMb0OG" # lucnhuquynh
+    hung:
+      email: hung@gmail.com
+      name: Vu Chi Hung
+      password: "$2b$12$0lcO76VwlYxmAS9V5gxCP.MAlVlVrGqp827IGvjiBUhxHVgfJkkpe" # vuchihung
+    long:
+      email: long@gmail.com
+      name: Vo Khac Thanh Long
+      password: "$2b$12$LfD8ZigUnl5MyZApRVNWe.XcFPnyRRSGVW3sBnGUtqlMOsW7FbvYO" #vokhacthanhlong
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+    - qdhuy2000gl@gmail.com
